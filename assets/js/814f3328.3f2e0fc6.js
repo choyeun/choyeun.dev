@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchoyeun_dev=self.webpackChunkchoyeun_dev||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"long-blog-post","permalink":"/choyeun.dev/blog/2019/05/29/long-blog-post","unlisted":false,"date":"2019-05-29T00:00:00.000Z"}]}')}}]);
